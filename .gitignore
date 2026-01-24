@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Distribution / Packaging
+build/
+dist/
+*.spec
+*.tar.gz
+*.exe
+
+# Application Config (User Data)
+typepaste_config.json
+
+# IDEs
+.vscode/
+.idea/
